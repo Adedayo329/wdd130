@@ -251,6 +251,7 @@ input {
     align-items: center;
 }
 .call-to-action {
+    display: grid;
     text-align: center;
     margin: 40px 0;
     padding: 10px;
