@@ -224,7 +224,8 @@ button {
     background: purple;
     color: white;
     padding: 10px;
-    border-radius: 20px solid rgba(0, 0, 0, 0.1);
+    border: 20px solid rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
     margin: 2rem;
     font-size: 20px;
 }
